@@ -17,6 +17,12 @@ p {
   font-family: Helvetica;
   color: white;
 }
+
+/*Section Titles */
+.chicken {
+  background-color: black
+}
+
 /* Simple Responsive Framework. */
 .row {
   width: 100%;
